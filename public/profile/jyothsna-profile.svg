@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1250">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f3f3f3"/>
+      <stop offset="100%" stop-color="#e5e5e5"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#fafafa"/>
+      <stop offset="100%" stop-color="#d5d5d5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1250" fill="url(#bg)"/>
+  <rect x="120" y="70" width="960" height="1110" rx="32" fill="#f7f7f7" stroke="#d8d8d8"/>
+  <circle cx="600" cy="390" r="225" fill="#1a1a1a" opacity="0.08"/>
+  <path d="M350 420c45-125 150-195 250-195s205 70 250 195c30 89 60 191-22 260-28 24-66 37-103 37H475c-52 0-101-19-138-58-48-56-43-145-18-244Z" fill="#2d1d17"/>
+  <path d="M530 405c30-14 69-18 109-10 69 15 120 80 120 157v76H410v-54c0-68 48-138 120-169Z" fill="#2a211e" opacity="0.8"/>
+  <ellipse cx="600" cy="470" rx="192" ry="168" fill="#e8c4a6"/>
+  <path d="M510 408c22-57 73-96 146-96 74 0 125 34 155 109-40-35-84-53-146-53-62 0-116 16-155 40Z" fill="#1f1513"/>
+  <path d="M480 470c0-72 52-115 120-115s120 43 120 115v30H480v-30Z" fill="#1b1717"/>
+  <circle cx="540" cy="485" r="9" fill="#1b1818"/>
+  <circle cx="660" cy="485" r="9" fill="#1b1818"/>
+  <path d="M560 560c28 28 54 36 82 36 26 0 57-9 84-34" fill="none" stroke="#8f5a46" stroke-width="8" stroke-linecap="round"/>
+  <path d="M530 635h140c16 0 30 13 30 29v33c0 31-25 56-56 56H556c-31 0-56-25-56-56v-33c0-16 13-29 30-29Z" fill="#d8bca0"/>
+  <path d="M300 950c70-110 200-170 300-170s230 60 300 170l-58 145H358L300 950Z" fill="url(#shirt)" stroke="#cfcfcf"/>
+  <path d="M505 785h190v115c0 56-46 102-103 102s-87-46-87-102V785Z" fill="#f5f5f5" stroke="#d9d9d9"/>
+  <path d="M280 820h180v74c0 58-47 105-105 105H355c-59 0-106-47-106-105v-74h31Z" fill="#f0f0f0"/>
+  <path d="M740 820h180v74c0 58-47 105-105 105h-20c-59 0-106-47-106-105v-74h51Z" fill="#f0f0f0"/>
+  <path d="M538 820l62 45 62-45" stroke="#bdbdbd" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <circle cx="600" cy="935" r="70" fill="#d9d9d9" opacity="0.4"/>
+  <circle cx="600" cy="935" r="54" fill="#b4b4b4" opacity="0.35"/>
+  <text x="600" y="1200" text-anchor="middle" fill="#1d1d1d" font-size="44" font-family="Segoe UI, Arial, sans-serif" letter-spacing="9">JYOTHSNA ANGADI</text>
+</svg>
